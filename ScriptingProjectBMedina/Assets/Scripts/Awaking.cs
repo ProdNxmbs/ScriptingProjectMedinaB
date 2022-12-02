@@ -14,6 +14,6 @@ public class Awaking : MonoBehaviour
     // Update is called once per frame
     void Start ()
     {
-        Debug.Log("Staart called.");
+        Debug.Log("Start called.");
     }
 }

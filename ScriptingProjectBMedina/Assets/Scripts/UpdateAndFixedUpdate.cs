@@ -7,7 +7,7 @@ public class UpdateAndFixedUpdate : MonoBehaviour
     // Start is called before the first frame update
     void FixedUpdate ()
     {
-        Debug.Log("FixedUpdatee time :" + Time.deltaTime);
+        Debug.Log("FixedUpdate time :" + Time.deltaTime);
     }
 
     // Update is called once per frame
